@@ -1,0 +1,27 @@
+{
+  "name": "assignment-5-akash-m1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-5-Akash-M1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-5-Akash-M1/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-5-Akash-M1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.7"
+  }
+}

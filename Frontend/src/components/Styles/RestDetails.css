@@ -1,0 +1,55 @@
+.headtext{
+    position: relative;
+    margin: 32px;
+    width: 500px;
+    height: 43px;
+    font-size: 30px;
+    color: #192F60;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.tabwrapper{
+    position: relative;
+    top: 60px;
+    width: 93%;
+    margin-left: 5%;
+}
+
+.tabs{
+    color: #192F60;
+    font-size: 18px; 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.tabtitle{
+    width: 182px;
+    height: 31px;   
+    text-align: left;
+    font: normal normal 600 22px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-weight: 600;
+}
+
+.tabcontenttitle{
+    width: 200px;
+    height: 25px;
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.tabcontent{
+    width: 250px;
+    height: 30px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
